@@ -3,7 +3,7 @@ public class TestStudent {
     public static void main(String[] args) {
         Student student = new Student("2026-001", "Maria Gomez", 4.0, 3.5, 4.5);
 
-        System.out.println("=== Información inicial ===");
+        System.out.println("Información inicial");
         showStudentInfo(student);
         System.out.println();
 
